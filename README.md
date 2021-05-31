@@ -1,4 +1,4 @@
-# PARALLEL_PROCESSING
+# Parallel Processing
 Data parallel approach for various distributed  algorithms
 1. DATA PARALLEL APPROACH using DISTRIBUTED NON-SHARED MEMORY for SIEVE of Erastosthenes.
  PARALLELIZATION SCHEME (Calculating the time and number of prime numbers generated,Generating all the prime numbers )
